@@ -1,0 +1,21 @@
+body{
+	background-color:red;
+	width:74px;
+}
+
+p{
+	color:red;
+	width:4rem;
+	background-color:green;
+}
+h1{
+	color:green;
+	height:7rem;
+	background-color:red;
+
+}
+p:after{
+	color:gray;
+	transition:transform all 0.5s ease-in;
+}
+
