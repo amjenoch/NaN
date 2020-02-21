@@ -1,6 +1,5 @@
 body{
-	background-color:red;
-	width:74px;
+	width:100%;
 }
 
 p{
@@ -19,3 +18,6 @@ p:after{
 	transition:transform all 0.5s ease-in;
 }
 
+#rel{
+	witdh:75%;
+}
